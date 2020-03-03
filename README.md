@@ -1,2 +1,2 @@
 # opensid-siskeudes
-integrasi Opensid dengan Sis
+integrasi Opensid dengan Siskeudes
